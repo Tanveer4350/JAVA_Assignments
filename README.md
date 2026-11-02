@@ -1,2 +1,1 @@
-# JAVA_Assignments
-All lab assignments
+All lab assignments record 💻📈
